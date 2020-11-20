@@ -1,0 +1,22 @@
+{
+  "name": "@chewbank/ioa-oass",
+  "version": "10.0.1",
+  "description": "ioa.js & oass生成 openapi 文档组件",
+  "devDependencies": {
+    "@chewbank/ioa": "^10.0.5",
+    "@chewbank/ioa-config": "^10.0.0",
+    "axios": "^0.18.0"
+  },
+  "files": [
+    "lib"
+  ],
+  "license": "ISC",
+  "scripts": {
+    "publish": "npm publish --access public",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@chewbank/consoln": "^1.0.3",
+    "@chewbank/ormv": "^3.2.7"
+  }
+}
