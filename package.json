@@ -1,6 +1,6 @@
 {
   "name": "@chewbank/ioa-oass",
-  "version": "10.0.1",
+  "version": "10.0.2",
   "description": "ioa.js & oass生成 openapi 文档组件",
   "devDependencies": {
     "@chewbank/ioa": "^10.0.5",
